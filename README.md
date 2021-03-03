@@ -4,5 +4,6 @@
 Группа 1 = 68 лекарств
 
 Группа 2 = 68 лекарств
+
 ![alt tag](https://github.com/Chertoganov/Reliable-model/blob/main/boxplot.png "Описание будет тут")​
 # Доверительный интервал
